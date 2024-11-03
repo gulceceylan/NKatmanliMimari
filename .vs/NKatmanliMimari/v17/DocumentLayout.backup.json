@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E00F12-4BF3-402B-B9D5-257618FFB0AB}|NKatmanliMimari\\NKatmanliMimari.csproj|c:\\users\\lenovo\\source\\repos\\nkatmanlimimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57E00F12-4BF3-402B-B9D5-257618FFB0AB}|NKatmanliMimari\\NKatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6554F20F-022F-4F39-9A0B-CAF6696CDAE2}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lenovo\\source\\repos\\nkatmanlimimari\\dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6554F20F-022F-4F39-9A0B-CAF6696CDAE2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E00F12-4BF3-402B-B9D5-257618FFB0AB}|NKatmanliMimari\\NKatmanliMimari.csproj|c:\\users\\lenovo\\source\\repos\\nkatmanlimimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E00F12-4BF3-402B-B9D5-257618FFB0AB}|NKatmanliMimari\\NKatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9697FA25-6AD2-4E18-84EB-2E26FF7CE618}|LogicLayer\\LogicLayer.csproj|c:\\users\\lenovo\\source\\repos\\nkatmanlimimari\\logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9697FA25-6AD2-4E18-84EB-2E26FF7CE618}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\logicpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BFD8BA-A5CE-4010-B8E0-77011EADFAEA}|EntityLayer\\EntityLayer.csproj|c:\\users\\lenovo\\source\\repos\\nkatmanlimimari\\entitylayer\\entitydepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BFD8BA-A5CE-4010-B8E0-77011EADFAEA}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitydepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54BFD8BA-A5CE-4010-B8E0-77011EADFAEA}|EntityLayer\\EntityLayer.csproj|c:\\users\\lenovo\\source\\repos\\nkatmanlimimari\\entitylayer\\entitypersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54BFD8BA-A5CE-4010-B8E0-77011EADFAEA}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitypersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6554F20F-022F-4F39-9A0B-CAF6696CDAE2}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\lenovo\\source\\repos\\nkatmanlimimari\\dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6554F20F-022F-4F39-9A0B-CAF6696CDAE2}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\baglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 381,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Baglanti.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\DataAccessLayer\\Baglanti.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Baglanti.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\DataAccessLayer\\Baglanti.cs",
+              "RelativeToolTip": "DataAccessLayer\\Baglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:09:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "NKatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs [Design]",
+              "RelativeToolTip": "NKatmanliMimari\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:39:45.956Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "NKatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeToolTip": "NKatmanliMimari\\Form1.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:55:25.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\LogicPersonel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\LogicLayer\\LogicPersonel.cs",
+              "RelativeToolTip": "LogicLayer\\LogicPersonel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:45:00.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\DataAccessLayer\\DALPersonel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DALPersonel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\DataAccessLayer\\DALPersonel.cs",
+              "RelativeToolTip": "DataAccessLayer\\DALPersonel.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:13:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityDepartman.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\EntityLayer\\EntityDepartman.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityDepartman.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\EntityLayer\\EntityDepartman.cs",
+              "RelativeToolTip": "EntityLayer\\EntityDepartman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:02:58.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\EntityLayer\\EntityPersonel.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\EntityPersonel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\NKatmanliMimari\\EntityLayer\\EntityPersonel.cs",
+              "RelativeToolTip": "EntityLayer\\EntityPersonel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:56:25.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
